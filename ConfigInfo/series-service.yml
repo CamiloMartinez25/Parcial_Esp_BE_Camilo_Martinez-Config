@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: movies-service
+    name: series-service
   mongodb:
     embedded:
       version: 4.0.2
